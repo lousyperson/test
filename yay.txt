@@ -1,1 +1,1 @@
-<?php print "yay"; ?>
+<?php print "yay"; __halt_compiler(); ?>
